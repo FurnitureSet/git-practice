@@ -1,1 +1,2 @@
 My first commit in git: this is on the main
+My first commit in git; this is on the new branch
